@@ -5,4 +5,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymdkit" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ymdkit&margin-w=30&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ymdkit&margin-w=30&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" />
